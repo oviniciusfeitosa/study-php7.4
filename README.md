@@ -6,4 +6,5 @@ Study of php7.4 features
 - `php src/SplFixedArray.php`
 
 ## References
-- https://imasters.com.br/back-end/5-bons-motivos-para-nao-usar-arrays-no-php-7-4
+- [5 Reasons to do not use arrays](https://imasters.com.br/back-end/5-bons-motivos-para-nao-usar-arrays-no-php-7-4)
+- [Commit Messages Convention (CMC)](https://github.com/devbrotherhood/cmc)
