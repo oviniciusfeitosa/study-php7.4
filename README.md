@@ -1,5 +1,14 @@
 # Study case of php7.4
 
+## Install
+
+```sh
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:ondrej/php
+sudo apt update
+sudo apt install php7.4
+```
+
 ## Example
 
 - `php src/array.php`
